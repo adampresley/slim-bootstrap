@@ -1,0 +1,7 @@
+body { padding-top: 60px; }
+
+/*
+ * Custom classes
+ */
+.error { color: red; }
+.clear { clear: both; }
